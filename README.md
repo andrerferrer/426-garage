@@ -4,7 +4,7 @@ First clone this repository.
 You must have Node (> v4) and [yarn](https://yarnpkg.com/lang/en/docs/install/) installed.
 
 ```bash
-export BATCH_NUMBER=999
+export BATCH_NUMBER=426
 cd ~/code/$USER
 git clone git@github.com:andrerferrer/$BATCH_NUMBER-clearbit-api.git
 cd $BATCH_NUMBER-clearbit-api
