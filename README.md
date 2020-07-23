@@ -17,7 +17,9 @@ webpack-dev-server # run the server on localhost:8080
 
 We'll finish this code using the [Garage API](https://github.com/lewagon/garage-api#wagon---garage-api-).
 
-Our GARAGE_SLUG will be `???`.
+⚠️⚠️⚠️
+  Our GARAGE_SLUG will be `426`.
+⚠️⚠️⚠️
 
 ## Tips and Tricks
 
